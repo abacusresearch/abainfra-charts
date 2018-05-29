@@ -5,5 +5,5 @@
 
 ## how to use
 ```
-helm repo add abainfa https://raw.githubusercontent.com/abacusresearch/abainfra-charts/master
+helm repo add abainfra https://raw.githubusercontent.com/abacusresearch/abainfra-charts/master
 ```
